@@ -1,26 +1,26 @@
 - Introduction
-  - [Defining Data Science](../1-Introduction/01-defining-data-science/README.md)
-  - [Ethics of Data Science](../1-Introduction/02-ethics/README.md)
-  - [Defining Data](../1-Introduction/03-defining-data/README.md)
-  - [Probability and Stats](../1-Introduction/04-stats-and-probability/README.md)
-- Working With Data
-  - [Relational Databases](../2-Working-With-Data/05-relational-databases/README.md)
-  - [Nonrelational Databases](../2-Working-With-Data/06-non-relational/README.md)
-  - [Python](../2-Working-With-Data/07-python/README.md)
-  - [Data Preparation](../2-Working-With-Data/08-data-preparation/README.md)
-- Data Visualization
-  - [Visualizing Quantities](../3-Data-Visualization/09-visualization-quantities/README.md)
-  - [Visualizing Distributions](../3-Data-Visualization/10-visualization-distributions/README.md)
-  - [Visualizing Proportions](../3-Data-Visualization/11-visualization-proportions/README.md)
-  - [Visualizing Relationships](../3-Data-Visualization/12-visualization-relationships/README.md)
-  - [Meaningful Visualizations](../3-Data-Visualization/13-meaningful-visualizations/README.md)
-- Data Science Lifecycle
-  - [Introduction](../4-Data-Science-Lifecycle/14-Introduction/README.md)
-  - [Analyzing](../4-Data-Science-Lifecycle/15-analyzing/README.md)
-  - [Communication](../4-Data-Science-Lifecycle/16-communication/README.md)
-- Data Science in the Cloud
-  - [Introduction](../5-Data-Science-In-Cloud/17-Introduction/README.md)
-  - [Low Code](../5-Data-Science-In-Cloud/18-Low-Code/README.md)
-  - [Azure](../5-Data-Science-In-Cloud/19-Azure/README.md)
-- Data Science in the Wild
-  - [DS In The Wild](../6-Data-Science-In-Wild/README.md)
+  - [Creating Variables](../1-Introduction/01-Creating-Variables/README.md)
+  - [Using Variables](../1-Introduction/02-Using-Variables/README.md)
+  - [True or False](../1-Introduction/03-True-or-False/README.md)
+  - [Checking Number Equality](../1-Introduction/04-Checking-Number-Equality/README.md)
+  - [Python Practice](../1-Introduction/Python-Practice/README.md)
+- Python Basics
+  - [Comparing Numbers](../2-Python-Basics/05-Comparing-Numbers/README.md)
+  - [Comparing Strings](../2-Python-Basics/06-Comparing-Strings/README.md)
+  - [Discovering Types](../2-Python-Basics/07-Discovering-Types/README.md)
+  - [Python Practice](../2-Python-Basics/Python-Practice/README.md)
+- Types and Comparisons
+- Conditional Statements
+- Loops
+- Organizing Data
+- Using Lists
+- Using Strings
+- Intermediate Python
+- Functions
+- Tuples, Dictionaries, and Sets
+- List Comprehensions
+- Classes
+- Object-oriented Programming
+- Modules
+- Errors and Expections
+- Certificate [coming soon]
