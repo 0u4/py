@@ -1,0 +1,29 @@
+{
+	"name": "py",
+	"version": "1.0.0",
+	"description": "py - Python for myself",
+	"main": "index.js",
+	"scripts": {
+		"convert": "node_modules/.bin/docsify-to-pdf"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/6r7/py.git"
+	},
+	"keywords": [
+		"machine",
+		"learning",
+		"ml",
+		"ai",
+		"curriculum"
+	],
+	"author": "6r7",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/6r7/py/issues"
+	},
+	"homepage": "https://github.com/6r7/py#readme",
+	"devDependencies": {
+		"docsify-to-pdf": "0.0.5"
+	}
+}
